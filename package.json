@@ -1,0 +1,13 @@
+{
+  "name": "RESTful_API_Node-express-mongo",
+  "version": "1.0.0",
+  "description": "A simpe RESTful API built using Nodejs, Express, and MongoDB for retrieving book data of a bookstore",
+  "main": "app.js",
+  "author": "Ayoub Nejjari ",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.10.0"
+  }
+}
